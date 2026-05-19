@@ -1,0 +1,8 @@
+# Generated output — running the skills creates these; not part of the package
+stakeholder-maps/
+communication-plans/
+channel-docs/
+
+# OS / editor noise
+.DS_Store
+*.swp
